@@ -1,6 +1,11 @@
 list nomor
-1
-2
+1 Semoga bisa lulus UN
+2 Bisa kuliah di PTN Fav
 3
 4
 5
+6
+7
+8
+9
+10
