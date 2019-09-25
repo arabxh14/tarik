@@ -1,6 +1,6 @@
 list nomor
-1 Indonesia
-2 Batagor
+1 Semoga bisa lulus UN
+2 Bisa kuliah di PTN Fav
 3
 4
 5
